@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Lucas Lois Blog
+title: Lucas Lois
 subtitle: ¡Hola! Soy un desarrollador web argentino apasionado por la informática y la tecnología :)
-description:
+description: ¡Hola! Soy un desarrollador web argentino apasionado por la informática y la tecnología :)
 keywords:
-author: Lucas Lois
-language: Español
+author: Lucas E. Lois
+language: es
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

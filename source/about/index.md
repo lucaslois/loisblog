@@ -1,8 +1,6 @@
 ---
-title: Mi primer blog
-date: 2019-09-01 22:15
-photos:
- - /images/mi-primer-blog.jpg
+title: about
+date: 2019-09-05 23:09:03
 ---
 ¡Hola! Me llamo Lucas, pero prefiero que me llamen Lucky. Nací el 30 de enero de 1995 (por lo que actualmente tengo 24 años). Soy un amante empedernido de la tecnología, la programación y los videojuegos. Trabajo como Desarrollador Web en una Software Factory radicada en argentina. 
 
