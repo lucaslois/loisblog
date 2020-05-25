@@ -30,4 +30,5 @@ jobs:
       env:
         dest: 'ubuntu@157.230.208.7:~/test’
 
-    - run: scp ubuntu@157.230.208.7 -i ./deploy_key *:~/deploy
+    - name: Deploying
+      run: scp ubuntu@157.230.208.7 -i ./deploy_key *:~/deploy
