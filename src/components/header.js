@@ -1,29 +1,28 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import './header.scss'
+import { Col, Row } from "react-bootstrap"
+import LogoImage from '../images/logo.png'
+import Navbar from "./Navbar/navbar"
+
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
+  <header className='header'>
+    <Row>
+      <Col xs={2} className='d-flex align-items-end justify-content-end'>
+        <img className='logo d-block' alt='Lucas Lois Logo' src={LogoImage} />
+      </Col>
+      <Col className='d-flex align-items-center'>
+        <div>
+          <h1>Lucas Lois | Blog</h1>
+          <Navbar />
+        </div>
+      </Col>
+    </Row>
+    <div>
+      <h1>
+        <Link to="/">
           {siteTitle}
         </Link>
       </h1>
@@ -32,11 +31,11 @@ const Header = ({ siteTitle }) => (
 )
 
 Header.propTypes = {
-  siteTitle: PropTypes.string,
+  siteTitle: PropTypes.string
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
+  siteTitle: ``
 }
 
 export default Header
