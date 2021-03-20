@@ -6,6 +6,8 @@ nav:
   category: Category
   projects: Projects
   search: Search
+  skills: Skills
+  books: Books
 
 footer:
   copyright: Copyright
