@@ -3,6 +3,7 @@ nav:
   about: Acerca de
   articles: Articulos
   projects: Proyectos
+  books: Libros
   search: Buscar
 
 footer:
@@ -13,7 +14,7 @@ index:
   enum_comma: ','
   enum_and: y
   articles: Articulos
-  projects: Proyectos
+  books: Books
 
 post:
   desktop:

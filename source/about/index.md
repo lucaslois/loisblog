@@ -2,12 +2,18 @@
 title: about
 date: 2019-09-05 23:09:03
 ---
-¡Hola! Me llamo Lucas, pero prefiero que me llamen Lucky. Nací el 30 de enero de 1995 (por lo que actualmente tengo 24 años). Soy un amante empedernido de la tecnología, la programación y los videojuegos. Trabajo como Desarrollador Web en una Software Factory radicada en argentina. 
+# Hello There!, I'm Lucky
+I’m a software developer currently living in Argentina 🇦🇷. I like to work mostly with web technologies such PHP and Javascript, but I can use any other language that I need.
 
-Mi principal herramienta de trabajo es [Laravel](https://laravel.com/), framework con el que tengo más de 2 años de experiencia.
+I like to learn new technologies, methodologies, and best practices to develop better software.
 
-Me considero un afortunado ya que amo mi trabajo. Disfruto el arte de la programación, la solución de problemas, el pensamiento lógico, el pensamiento abstracto, el buscarle la vuelta de tuerca y llevar los problemás más allá de la solución obvia.
+* 💻 Now, **I am working at Braintly**, a Software Boutique company based in Argentina where we make amazing software for different clients and startups.
+* 📖 I am currently **learning about** architecture and better ways to organize the code.
+* ⌨️ My principal technologies are **PHP (using Laravel), Javascript (React & Vue), NodeJS (Typescript, Express, TypeORM)**. Although I have done some projects working as frontender, I prefer to work in the backend.
+* 📁 I’ve worked with MySQL and PostgreSQL and I also want to research NoSQL like MongoDB but, for now, I haven’t had the opportunity.
+* 🔎 I have **strong knowledge in Object-Oriented Programming**, applying principles like Design Patterns, SOLID and Unit Testing.
+* 🤓 **I like theory**. I love to discover the foundations behind things so I try to read books, take courses, read a lot of articles and blog posts and see a lot of Youtube videos. (My last book read was “Clean Architecture” by Robert C. Martin).
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently, **I am learning English**, so sorry if you see a lot of errors written in this text 😅
+* 🤪 **I like building software ~~for stupid~~ things to solve problems**. For instance, once I wanted to buy a pair of sneakers and it was so expensive that I programm
 
-La idea de este blog es compartir un poco de mi experiencia como desarrollador; los principales obstáculos, cuestiones con las que lidiar día a día, errores, aprendizajes y curiosidades, además de contar un poco qué significa ser desarrollador web en Argentina, sin tener un titulo universitario y aprendiendo (en gran parte) de forma autodidacta.
-
-¡Acompañenme para conocer más!
+Thank you to visit my site. I hope you enjoy reading my adventures.

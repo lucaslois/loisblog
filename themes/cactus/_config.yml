@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/lucaslois
+projects_url: http://github.com/probberechts
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -17,6 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
+  books: /books
 
 
 # Links to your social media accounts.
@@ -24,10 +25,11 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/lucaslois
-  twitter: https://twitter.com/lucaslois95
-  linkedin: https://www.linkedin.com/in/lucaslois/
-  mail: mailto:lucaslois95@gmail.com
+  github: http://github.com/probberechts/cactus-dark
+  twitter: /
+  facebook: /
+  linkedin: /
+  mail: mailto:name@email.com
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -57,6 +59,12 @@ archive:
 post:
   show_updated: false
 
+# Customize the copyright years
+# Note: if start_year/end_year not provided, will use current year.
+copyright:
+  start_year: 2016
+  end_year:
+
 ##############################################################################
 # Look and Feel
 ##############################################################################
@@ -70,8 +78,8 @@ post:
 #   - gravatar: whether to use your Gravatar as the logo
 logo:
   enabled: true
-  width: 120
-  height: 80
+  width: 50
+  height: 50
   url: /images/logo.png
   gravatar: false
 

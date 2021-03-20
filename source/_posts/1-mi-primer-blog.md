@@ -1,15 +1,19 @@
 ---
-title: Mi primer blog
-date: 2019-09-01 22:15
-photos:
- - /images/mi-primer-blog.jpg
+title: Hello World!
+date: 2021-03-19 21:34
 ---
-¡Hola! Me llamo Lucas, pero prefiero que me llamen Lucky. Nací el 30 de enero de 1995 (por lo que actualmente tengo 24 años). Soy un amante empedernido de la tecnología, la programación y los videojuegos. Trabajo como Desarrollador Web en una Software Factory radicada en argentina. 
+Hello! My name is Lucas, but I prefer to be called Lucky :). I was born on January 30th of 1995, so I'm 26 years old (I mustn't forget to update this number the next year). 
 
-Mi principal herramienta de trabajo es [Laravel](https://laravel.com/), framework con el que tengo más de 2 años de experiencia.
+![](/images/lucky.PNG)
 
-Me considero un afortunado ya que amo mi trabajo. Disfruto el arte de la programación, la solución de problemas, el pensamiento lógico, el pensamiento abstracto, el buscarle la vuelta de tuerca y llevar los problemás más allá de la solución obvia.
 
-La idea de este blog es compartir un poco de mi experiencia como desarrollador; los principales obstáculos, cuestiones con las que lidiar día a día, errores, aprendizajes y curiosidades, además de contar un poco qué significa ser desarrollador web en Argentina, sin tener un titulo universitario y aprendiendo (en gran parte) de forma autodidacta.
+I'm a deep lover of programming, technology and videogames. I'm currently working as Technical Leader in a Software Factory based in Argentina.
+I started this blog to share my knowledge, experiences and adventures as a developer. I've always wanted to have the opportunity to share my knowledge with other people in a public space. I really enjoy transmitting my learnings and I put a lot of effort to make that other people can understand my ideas. 
 
-¡Acompañenme para conocer más!
+In 2019 I decided to face my fears and I started to talk in English with other people (Thanks Nati to be the best teacher). It was really hard for me because I consider I do it so badly and I didn't want other people to laugh at me because of that.
+
+I will try to write some blog post in English to practice my vocabulary, but if I have some complications to express an idea I will do it in Spanish, so you will see posts in both languages :).
+
+Currently, I work with PHP and Javascript. I've been working with PHP for many years and now I'm using Laravel. I consider that I have strong skills with this tool, so this year I will try to be good with NodeJS.
+
+Follow me to walk this travel together :).

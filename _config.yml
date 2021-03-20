@@ -4,11 +4,11 @@
 
 # Site
 title: Lucas Lois
-subtitle: ¡Hola! Soy un desarrollador web argentino apasionado por la informática y la tecnología :)
-description: ¡Hola! Soy un desarrollador web argentino apasionado por la informática y la tecnología :)
+subtitle: Hi! I'm a web developer passionate about programming and IT. You can read more about me on my page and you can follow me on my different social media accounts.
+description: Hi! I'm a web developer passionate about programming and IT. You can read more about me on my page and you can follow me on my different social media accounts.
 keywords:
 author: Lucas E. Lois
-language: es
+language: en
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: cactus2
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
